@@ -1,0 +1,22 @@
+{
+  "name": "try_node-dynamodb",
+  "version": "0.0.1",
+  "description": "Sandbox for a dynamo db client module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://kleencut@github.com/sandbox1/try_node-dynamodb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sandbox1/try_node-dynamodb/issues"
+  },
+  "homepage": "https://github.com/sandbox1/try_node-dynamodb#readme",
+  "dependencies": {
+    "dynamodb": "^0.3.6"
+  }
+}
